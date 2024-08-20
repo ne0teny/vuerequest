@@ -1,4 +1,4 @@
-# my-requests-app
+# Vue Test Guide
 
 ## Project setup
 ```
